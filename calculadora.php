@@ -10,5 +10,5 @@
 
       $totalDeVisualizacoes = $anuncioPrincipal + $novasVisualizacoes;
 
-    echo "Aproximadamente" . " " . $totalDeVisualizacoes . " " . "pessoas verão o seu anúncio!";
+    echo "Aproximadamente " . $totalDeVisualizacoes . " pessoas verão o seu anúncio!";
 
