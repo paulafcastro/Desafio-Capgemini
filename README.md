@@ -18,5 +18,5 @@
 * O projeto está sendo executado no console da própria IDE. 
 * O valor investido na **calculadora** poderá ser mantido ou alterado para execução do programa.
 * Para criar a instância da classe **CadastroDeAnuncios**, a instrução *new* deve ser utilizada.
-* Comandos recebidos e exibidos no console da própria IDE 
+
 
